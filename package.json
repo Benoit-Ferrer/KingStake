@@ -1,0 +1,32 @@
+{
+  "name": "@nfexaustia/staking",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "@metaplex/js": "^4.12.0",
+    "@project-serum/anchor": "^0.21.0",
+    "@solana/spl-token": "^0.1.8",
+    "@solana/wallet-adapter-base": "^0.9.3",
+    "@solana/web3.js": "^1.34.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.13",
+    "@types/react": "^17.0.20",
+    "@types/react-dom": "^17.0.9",
+    "typescript": "^4.4.2",
+    "bn.js": "^5.2.0",
+    "web-vitals": "^2.1.0"
+  },
+  "devDependencies": {
+    "@solana/wallet-adapter-base": "^0.9.3",
+    "@solana/wallet-adapter-react": "^0.15.3",
+    "@solana/wallet-adapter-react-ui": "^0.9.5",
+    "@solana/wallet-adapter-wallets": "^0.15.3"
+  },
+  "description": "Staking func",
+  "main": "index.ts",
+  "author": "Exaustia / Nfox",
+  "license": "ISC"
+}
